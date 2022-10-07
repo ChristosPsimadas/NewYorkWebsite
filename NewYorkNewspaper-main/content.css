@@ -1,24 +1,63 @@
 .page {
-  width:
-  height:
+  background-color: #d3d0cb;
+  margin: auto;
+  width: 40%;
+  height: 1200px;
+  padding-right: 2%;
+  padding-left: 2%;
 }
 
 #article_title {
-
+  font-size: 340%;
+  line-height: 250%;
+  letter-spacing: 10px;
+  font-weight: lighter;
+  font-family: 'Anton', sans-serif;
+  color: #461220;
 }
 
 #intro {
-
+  font-size: 210%;
+  font-family: 'Oswald', sans-serif;
+  line-height: 290%;
+  color: #8C2F39;
 }
 
 .question{
-
+  font-family: "Raleway", sans-serif;
+  font-size: 160%;
+  font-weight: 900;
+  padding-right: 7%;
+  font-weight: bolder;
+  color: #4C5760;
+  line-height: 90%;
+  margin-bottom: -0.001px;
 }
 
+
 .answer{
+  font-family: "Raleway", sans-serif;
+  font-size: 150%;
+  padding-right: 5%;
+  color: #4C5760;
+  margin-top: -0.001px;
 
 }
 
 #block_quote {
-
+  font-family: "Oswald", sans-serif;
+  font-size: 240%;
+  padding-left: 3%;
+  color: #8C2F39;
+  border-width: 10px;
+  border-style: solid;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 3px;
+  border-color: #461220;
+  margin-left: 140px;
+  width: 55%;
+  margin-bottom: -10px;
+  margin-top: -10px;
 }

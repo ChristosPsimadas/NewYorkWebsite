@@ -1,6 +1,6 @@
 .cover {
   height: 1080px;
-  background-color: grey;
+  background-color: #d3d0cb;
   margin: auto;
   width: 36%;
   /* finish your styling of the cover div here! */
@@ -28,5 +28,8 @@
 }
 
 #cover_image {
-
+  width: 70%;
+  padding-top: 15%;
+  padding-left: 15%;
+  padding-right: 10%;
 }
